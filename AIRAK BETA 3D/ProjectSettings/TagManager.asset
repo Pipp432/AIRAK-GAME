@@ -8,6 +8,10 @@ TagManager:
   - FarmLand
   - WateredFarmland
   - PlantedFarmLand
+  - Crop
+  - SeedUI
+  - CloneParent
+  - FullyGrownFarmLand
   layers:
   - Default
   - TransparentFX
